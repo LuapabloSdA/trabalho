@@ -2,7 +2,6 @@
 <html>
     <head>
         <style>
-        /*menu*/
         #menu{
             display: flex;
             border-bottom: 6px solid ;
@@ -31,8 +30,6 @@
             text-align: left;}
         </style>
         <body>
-            <title>Historia de Mar Vermelho</title>
-            <!--Aqui vai ficar o menu-->
             <div id="menu">
                 <p>Menu</p>
                 <p>Artesanato</p>
@@ -40,17 +37,11 @@
                 <p>Igrejas</p>
                 <p>Turismo</p>
             </div>
-            <!--Menu, acaba aqui-->
             <div id="centro">
-                <!--Titulo do tema-->
                 <h1 id="titulo1">Mar Vermelho</h1>
-                <!--Primeira imagem-->
                 <img src="Imagens_Projeto/fotoantiga1.png" width="350px">
                 <img src="Imagens_Projeto/fotoantiga2.png" width="350px">
-                <!--Texto1, quer dizer o primeiro texto, que vai ficar logo a baixo da foto principa
-                Mar Vermelho-->
                 <h3 id="titulo2">Historia de Mar Vermelho</h3>
-                <!--Vai ficar em destaque, da História-->
                 <p id=adm>O município de Mar Vermelho tem sua origem ligada à história de Coutinho, um viajante que chegou à região por volta de 1800, construiu uma casa e iniciou a criação de gado e o cultivo da terra. Com a chegada de outros moradores, novas casas foram surgindo próximas a uma lagoa, que tinha, em suas margens, muitos pés de gravatás cujas folhas vermelhas caíam e formavam um grande 'mar vermelho' na lagoa, dando origem ao nome do município.</p>
                 <!--História de Mar Vermelho-->
                 <p id="adm">A propriedade foi transferida para o alferes Cazuza e, mais tarde, para o major Joaquim Canuto de Albuquerque Maranhão, que, em 1900, instalou o primeiro vapor de algodão. Em pouco tempo, Mar Vermelho transformou-se em núcleo comercial.
@@ -69,11 +60,4 @@
             </div>
         </body>
     </head>
-
-
-
-
-
-
-
 </html>
