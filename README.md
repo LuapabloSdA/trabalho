@@ -2,13 +2,6 @@
 <html>
     <head>
         <style>
-        #menu{
-            display: flex;
-            border-bottom: 6px solid ;
-            width: 100%;
-            height: 5%;
-            justify-content: flex-end;
-            gap: 7px;}
         #centro{
             border-style:solid;
             border-width: 1px;
@@ -17,6 +10,13 @@
             height: 100%;
             margin: 0 auto 0 auto ;
             text-align: center;}
+        #menu{
+            display: flex;
+            border-bottom: 6px solid ;
+            width: 100%;
+            height: 5%;
+            justify-content: flex-end;
+            gap: 7px;}
         #titulo1{
             text-align: center;
             border-bottom: solid;}
