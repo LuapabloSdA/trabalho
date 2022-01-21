@@ -2,14 +2,14 @@
 <html>
     <head>
         <style>
-        #menu{
+            #menu{
             display: flex;
             border-bottom: 6px solid ;
             width: 100%;
             height: 5%;
             justify-content: flex-end;
             gap: 7px;}
-        #centro{
+            #centro{
             border-style:solid;
             border-width: 1px;
             border-bottom:rgba(167, 145, 145, 0.678);
@@ -17,18 +17,19 @@
             height: 100%;
             margin: 0 auto 0 auto ;
             text-align: center;}
-        #titulo1{
+            #titulo1{
             text-align: center;
             border-bottom: solid;}
-        #titulo2{
+            #titulo2{
             text-align: left;
             text-decoration-line: underline;}
-        #adm{
+            #adm{
             text-align: center;}
-        #fonte1{
+            #fonte1{
             font-weight:bold;
             text-align: left;}
         </style>
+    </head>
         <body>
             <div id="menu">
                 <p>Menu</p>
@@ -37,6 +38,7 @@
                 <p>Igrejas</p>
                 <p>Turismo</p>
             </div>
+            
             <div id="centro">
                 <h1 id="titulo1">Mar Vermelho</h1>
                 <img src="Imagens_Projeto/fotoantiga1.png" width="350px">
@@ -59,5 +61,4 @@
                     <p id="fonte1">Fonte:<a href="https://cidades.ibge.gov.br/brasil/al/mar-vermelho/historico">IBGE</a><p>
             </div>
         </body>
-    </head>
 </html>
